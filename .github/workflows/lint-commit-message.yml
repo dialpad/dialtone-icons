@@ -3,8 +3,6 @@ name: Lint commit message
 on:
   push:
     branches:
-      - staging
-      - staging-vue3
       - main
       - vue3
 
