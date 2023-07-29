@@ -49,5 +49,39 @@
   "peerDependencies": {
     "vue": ">=2.6"
   },
+  "bugs": {
+    "email": "dialtone@dialpad.com"
+  },
+  "contributors": [
+    {
+      "name": "Brad Paugh",
+      "email": "brad.paugh@dialpad.com",
+      "url": "https://github.com/braddialpad"
+    },
+    {
+      "name": "Francis Rupert",
+      "email": "francis.rupert@dialpad.com",
+      "url": "https://github.com/francisrupert"
+    },
+    {
+      "name": "Julio Ortega",
+      "email": "julio.ortega@dialpad.com",
+      "url": "https://github.com/juliodialpad"
+    },
+    {
+      "name": "Ignacio Ropolo",
+      "email": "ignacio.ropolo@dialpad.com",
+      "url": "https://github.com/iropolo"
+    }
+  ],
+  "keywords": [
+    "Dialpad",
+    "Dialtone",
+    "Dialtone Icons",
+    "Icons",
+    "Icon Library",
+    "Vue"
+  ],
+  "license": "MIT",
   "repository": "git@github.com:dialpad/dialtone-icons.git"
 }
