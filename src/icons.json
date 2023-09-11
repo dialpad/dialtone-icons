@@ -232,7 +232,10 @@
       "slack": [],
       "snapchat": [],
       "telegram": [],
-      "threads": [],
+      "threads": [
+        "meta",
+        "facebook"
+      ],
       "tiktok": [],
       "toggl": [],
       "twitter": [],
@@ -241,7 +244,9 @@
       "visa": [],
       "we-chat": [],
       "whatsapp": [],
-      "x-brand": [],
+      "x-brand": [
+        "twitter"
+      ],
       "zendesk": [],
       "zoho-crm": [],
       "zoho-desk": [],
