@@ -1,6 +1,6 @@
 {
   "name": "@dialpad/dialtone-icons",
-  "version": "3.1.1",
+  "version": "3.4.0",
   "description": "Dialtone icon library",
   "scripts": {
     "build": "npm run build-icons && npm run build-lib",
@@ -73,6 +73,11 @@
       "name": "Ignacio Ropolo",
       "email": "ignacio.ropolo@dialpad.com",
       "url": "https://github.com/iropolo"
+    },
+    {
+      "name": "Nina Repetto",
+      "email": "nina.repetto@dialpad.com",
+      "url": "https://github.com/ninamarina"
     }
   ],
   "keywords": [
