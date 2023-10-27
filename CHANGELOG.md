@@ -1,3 +1,30 @@
+# [2.4.0](https://github.com/dialpad/dialtone-icons/compare/v2.3.0...v2.4.0) (2023-10-20)
+
+
+### Features
+
+* add skip-15-sec, rewind-15-sec, list-ordered icons ([#28](https://github.com/dialpad/dialtone-icons/issues/28)) ([8a920b0](https://github.com/dialpad/dialtone-icons/commit/8a920b00186aa8bd10b49070d8649a4560a52f20))
+
+# [2.3.0](https://github.com/dialpad/dialtone-icons/compare/v2.2.0...v2.3.0) (2023-10-04)
+
+
+### Features
+
+* add attestation-outline, empty, video-settings, call-rejected, waveform icons ([#27](https://github.com/dialpad/dialtone-icons/issues/27)) ([d8b1165](https://github.com/dialpad/dialtone-icons/commit/d8b116555f7e2b715c5c458b7d5016e9fb7b22c5))
+
+# [2.2.0](https://github.com/dialpad/dialtone-icons/compare/v2.1.1...v2.2.0) (2023-09-21)
+
+
+### Documentation
+
+* rename main branch to production ([163ab4f](https://github.com/dialpad/dialtone-icons/commit/163ab4ff0aeae1886d088430c2f8e9470e97e584))
+
+
+### Features
+
+* add circle half filled icon ([#26](https://github.com/dialpad/dialtone-icons/issues/26)) ([e02e1c8](https://github.com/dialpad/dialtone-icons/commit/e02e1c8afb6b1cf81356c26a7491c324a8b9a7d9))
+* add x and threads icons ([#25](https://github.com/dialpad/dialtone-icons/issues/25)) ([4a012e7](https://github.com/dialpad/dialtone-icons/commit/4a012e72903607d4e6a1d7344dfdf7a37ac63a4c))
+
 ## [2.1.1](https://github.com/dialpad/dialtone-icons/compare/v2.1.0...v2.1.1) (2023-09-04)
 
 
