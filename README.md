@@ -1,3 +1,7 @@
+# ⚠️ Dialtone icons repository is now part of a monorepo
+
+This repository has been deprecated and the files have been moved to [Design system monorepo](https://github.com/dialpad/design-system) on Oct. 27th, 2023.
+
 # Dialtone Icons
 
 This is the home for Dialtone icons. It includes the resources needed to implement icons on your application that conform to Dialpad’s design principles and best practices.
